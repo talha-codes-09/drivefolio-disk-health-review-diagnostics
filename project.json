@@ -1,0 +1,41 @@
+{
+  "id": 67,
+  "category": "pc-utility",
+  "slug": "disk-health-review",
+  "target": "Storage device health",
+  "appid": null,
+  "summaryRu": "Проект сводки состояния накопителей без записи тестовых данных на диск.",
+  "features": [
+    "Health report import",
+    "Device identity register",
+    "Backup priority notes"
+  ],
+  "title": "DriveFolio — Storage device health — Diagnostics",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "general-platform-context",
+      "sourceId": "windows-performance",
+      "detail": "General Windows performance context, not endorsement or validation of this proposed utility."
+    }
+  ],
+  "brand": "DriveFolio",
+  "repositoryName": "drivefolio-disk-health-review-diagnostics",
+  "githubTopics": [
+    "storage-device-health",
+    "disk-health",
+    "device-inventory",
+    "backup-planning",
+    "windows",
+    "pc-diagnostics",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "diagnostics"
+}
